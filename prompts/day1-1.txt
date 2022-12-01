@@ -1,0 +1,1 @@
+Write a program that takes a string input containing line separated integers. The program should sum the integers in each group. Groups are separated by two newlines. The program should then output the sum of the group with the maximum sum.

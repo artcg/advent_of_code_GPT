@@ -1,0 +1,2 @@
+Modify the previous function to instead return the sum of the sum of the top three groups.
+
